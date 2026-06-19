@@ -49,3 +49,7 @@ Smart-Diabetes-Prediction-System/
 ├── app.py                     ← Streamlit interactive dashboard UI
 ├── requirements.txt           ← Python external dependencies
 └── README.md                  ← Project documentation
+
+<img width="1907" height="914" alt="image" src="https://github.com/user-attachments/assets/d83482c9-b374-4be1-a5f3-4dfb256b36d8" />
+<img width="1907" height="906" alt="image" src="https://github.com/user-attachments/assets/01773410-0a44-4e12-8d13-dee28b1f8a6a" />
+
